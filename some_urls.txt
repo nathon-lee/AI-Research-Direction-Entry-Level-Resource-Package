@@ -1,2 +1,5 @@
 openai wengjiali interview: 
 https://www.youtube.com/watch?v=I0DrcsDf3Os
+
+deepspeed Sparse Attention
+https://www.deepspeed.ai/tutorials/sparse-attention/
